@@ -3,11 +3,10 @@ site_name: Sum
 theme:
   name: "material"
 
-
 nav:
   - index.md
-  - tutoriales.md
+  - tutorials.md
   - reference.md
+
 plugins:
   - mkdocstrings
-
